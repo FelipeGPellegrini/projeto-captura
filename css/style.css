@@ -90,6 +90,7 @@ footer {
     display: inline-block;
     max-width: 40%;
     margin-left: 40px;
+    color: white;
 }
 
 .description p, .description h3 {
